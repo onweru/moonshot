@@ -13,6 +13,8 @@
 		041F7A5124112AB400D86B4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041F7A5024112AB400D86B4F /* Assets.xcassets */; };
 		041F7A5424112AB400D86B4F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041F7A5324112AB400D86B4F /* Preview Assets.xcassets */; };
 		041F7A5724112AB400D86B4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041F7A5524112AB400D86B4F /* LaunchScreen.storyboard */; };
+		04FBFB5C2416CA4D00F74DA8 /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 04FBFB5A2416CA4D00F74DA8 /* missions.json */; };
+		04FBFB5D2416CA4D00F74DA8 /* astronauts.json in Resources */ = {isa = PBXBuildFile; fileRef = 04FBFB5B2416CA4D00F74DA8 /* astronauts.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		041F7A5324112AB400D86B4F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		041F7A5624112AB400D86B4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		041F7A5824112AB400D86B4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04FBFB5A2416CA4D00F74DA8 /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = missions.json; path = "../../../../Downloads/hackingwithswift/SwiftUI/project8-files/missions.json"; sourceTree = "<group>"; };
+		04FBFB5B2416CA4D00F74DA8 /* astronauts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = astronauts.json; path = "../../../../Downloads/hackingwithswift/SwiftUI/project8-files/astronauts.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				041F7A5024112AB400D86B4F /* Assets.xcassets */,
 				041F7A5524112AB400D86B4F /* LaunchScreen.storyboard */,
 				041F7A5824112AB400D86B4F /* Info.plist */,
+				04FBFB5B2416CA4D00F74DA8 /* astronauts.json */,
+				04FBFB5A2416CA4D00F74DA8 /* missions.json */,
 				041F7A5224112AB400D86B4F /* Preview Content */,
 			);
 			path = moonshot;
@@ -135,6 +141,8 @@
 			files = (
 				041F7A5724112AB400D86B4F /* LaunchScreen.storyboard in Resources */,
 				041F7A5424112AB400D86B4F /* Preview Assets.xcassets in Resources */,
+				04FBFB5C2416CA4D00F74DA8 /* missions.json in Resources */,
+				04FBFB5D2416CA4D00F74DA8 /* astronauts.json in Resources */,
 				041F7A5124112AB400D86B4F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
