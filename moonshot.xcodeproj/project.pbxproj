@@ -19,6 +19,7 @@
 		04FBFB652416CB7400F74DA8 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FBFB642416CB7400F74DA8 /* Bundle-Decodable.swift */; };
 		04FBFB672416CDB900F74DA8 /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FBFB662416CDB900F74DA8 /* Mission.swift */; };
 		04FBFB692416D3DD00F74DA8 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FBFB682416D3DD00F74DA8 /* MissionView.swift */; };
+		04FBFB6B2416D8F200F74DA8 /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FBFB6A2416D8F200F74DA8 /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		04FBFB642416CB7400F74DA8 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		04FBFB662416CDB900F74DA8 /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
 		04FBFB682416D3DD00F74DA8 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		04FBFB6A2416D8F200F74DA8 /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				041F7A4A24112AB000D86B4F /* AppDelegate.swift */,
 				041F7A4C24112AB000D86B4F /* SceneDelegate.swift */,
 				041F7A4E24112AB000D86B4F /* ContentView.swift */,
+				04FBFB6A2416D8F200F74DA8 /* AstronautView.swift */,
 				04FBFB682416D3DD00F74DA8 /* MissionView.swift */,
 				041F7A5024112AB400D86B4F /* Assets.xcassets */,
 				041F7A5524112AB400D86B4F /* LaunchScreen.storyboard */,
@@ -168,6 +171,7 @@
 			files = (
 				04FBFB692416D3DD00F74DA8 /* MissionView.swift in Sources */,
 				04FBFB672416CDB900F74DA8 /* Mission.swift in Sources */,
+				04FBFB6B2416D8F200F74DA8 /* AstronautView.swift in Sources */,
 				041F7A4B24112AB000D86B4F /* AppDelegate.swift in Sources */,
 				041F7A4D24112AB000D86B4F /* SceneDelegate.swift in Sources */,
 				04FBFB652416CB7400F74DA8 /* Bundle-Decodable.swift in Sources */,
