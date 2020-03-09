@@ -15,6 +15,8 @@
 		041F7A5724112AB400D86B4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041F7A5524112AB400D86B4F /* LaunchScreen.storyboard */; };
 		04FBFB5C2416CA4D00F74DA8 /* missions.json in Resources */ = {isa = PBXBuildFile; fileRef = 04FBFB5A2416CA4D00F74DA8 /* missions.json */; };
 		04FBFB5D2416CA4D00F74DA8 /* astronauts.json in Resources */ = {isa = PBXBuildFile; fileRef = 04FBFB5B2416CA4D00F74DA8 /* astronauts.json */; };
+		04FBFB632416CB1B00F74DA8 /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FBFB622416CB1B00F74DA8 /* Astronaut.swift */; };
+		04FBFB652416CB7400F74DA8 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FBFB642416CB7400F74DA8 /* Bundle-Decodable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		041F7A5824112AB400D86B4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04FBFB5A2416CA4D00F74DA8 /* missions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = missions.json; path = "../../../../Downloads/hackingwithswift/SwiftUI/project8-files/missions.json"; sourceTree = "<group>"; };
 		04FBFB5B2416CA4D00F74DA8 /* astronauts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = astronauts.json; path = "../../../../Downloads/hackingwithswift/SwiftUI/project8-files/astronauts.json"; sourceTree = "<group>"; };
+		04FBFB622416CB1B00F74DA8 /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = SOURCE_ROOT; };
+		04FBFB642416CB7400F74DA8 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 		041F7A4924112AB000D86B4F /* moonshot */ = {
 			isa = PBXGroup;
 			children = (
+				04FBFB622416CB1B00F74DA8 /* Astronaut.swift */,
+				04FBFB642416CB7400F74DA8 /* Bundle-Decodable.swift */,
 				041F7A4A24112AB000D86B4F /* AppDelegate.swift */,
 				041F7A4C24112AB000D86B4F /* SceneDelegate.swift */,
 				041F7A4E24112AB000D86B4F /* ContentView.swift */,
@@ -156,7 +162,9 @@
 			files = (
 				041F7A4B24112AB000D86B4F /* AppDelegate.swift in Sources */,
 				041F7A4D24112AB000D86B4F /* SceneDelegate.swift in Sources */,
+				04FBFB652416CB7400F74DA8 /* Bundle-Decodable.swift in Sources */,
 				041F7A4F24112AB000D86B4F /* ContentView.swift in Sources */,
+				04FBFB632416CB1B00F74DA8 /* Astronaut.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
